@@ -1,7 +1,9 @@
 ### I'm Ige Adetokunbo Temitayo 👋
 
-- 🔭 I'm currently working on as a DevOps / Site Reliability Engineer
+- 🔭 I'm a DevOps / Site Reliability Engineer
 - 🌱 I strongly believe in continous learning and improvements
+- 🔭 I love collaborating and experimenting new concepts / technology
+- 🌱 Currently exploring Golang
 
 ##### I recently deployed an new [action on Github Marketplace](https://github.com/marketplace/actions/packer-build-on-aws)
 
