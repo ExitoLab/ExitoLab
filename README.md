@@ -12,6 +12,11 @@
 1. AWS Community Builder - AWS
 2. Co-Lead Contributor Experience SIG Armory - Spinnaker
 
+### My Publications
+
+1. [medium](https://igeadetokunbo.medium.com/)
+2. [dev.io](https://dev.to/igeadetokunbo)
+3. [sqlservercentral](sqlservercentral.com/blogs/source/adetokunbo-ige)
 #### I recently deployed an new [action on Github Marketplace](https://github.com/marketplace/actions/packer-build-on-aws)
 
 ### My last articles on Medium:
