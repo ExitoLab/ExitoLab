@@ -16,7 +16,7 @@
 
 1. [medium](https://igeadetokunbo.medium.com/)
 2. [dev.io](https://dev.to/igeadetokunbo)
-3. [sqlservercentral](sqlservercentral.com/blogs/source/adetokunbo-ige)
+3. [sqlservercentral](https://www.sqlservercentral.com/blogs/source/adetokunbo-ige)
 #### I recently deployed an new [action on Github Marketplace](https://github.com/marketplace/actions/packer-build-on-aws)
 
 ### My last articles on Medium:
