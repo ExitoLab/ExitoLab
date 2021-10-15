@@ -1,8 +1,10 @@
-### I'm Ige Adetokunbo Temitayo 👋
+### I'm Ige Adetokunbo Temitayo | DevOps / SRE Engineer
 
-- 🔭 I'm a DevOps / Site Reliability Engineer
+- 🔭 DevOps Engineer @ Emirates Group
+- 🔭 ISO 22301 Lead Implementer
 - 🌱 I strongly believe in continous learning and improvements
 - 🔭 I love collaborating and experimenting new concepts / technology
+- 🔭 1x Azure | CKAD
 - 🌱 Currently exploring Golang
 
 ### Volunteer
