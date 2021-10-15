@@ -5,7 +5,12 @@
 - 🔭 I love collaborating and experimenting new concepts / technology
 - 🌱 Currently exploring Golang
 
-##### I recently deployed an new [action on Github Marketplace](https://github.com/marketplace/actions/packer-build-on-aws)
+### Volunteer
+
+1. AWS Community Builder - AWS
+2. Co-Lead Contributor Experience SIG Armory - Spinnaker
+
+#### I recently deployed an new [action on Github Marketplace](https://github.com/marketplace/actions/packer-build-on-aws)
 
 ### My last articles on Medium:
 
