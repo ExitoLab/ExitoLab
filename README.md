@@ -4,7 +4,7 @@
 - 🔭 ISO 22301 Lead Implementer
 - 🌱 I strongly believe in continous learning and improvements
 - 🔭 I love collaborating and experimenting new concepts / technology
-- 🔭 1x Azure | CKAD
+- 🔭 1x AWS | 1x Azure | CKAD
 - 🌱 Currently exploring Golang
 
 ### Volunteer
