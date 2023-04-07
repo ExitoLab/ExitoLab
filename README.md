@@ -1,6 +1,6 @@
 ### I'm Ige Adetokunbo Temitayo | DevOps / SRE Engineer
 
-- 🔭 DevOps Engineer @ Emirates Group
+- 🔭 DevOps Engineer / Site Reliability Engineer
 - 🔭 ISO 22301 Lead Implementer
 - 🌱 I strongly believe in continous learning and improvements
 - 🔭 I love collaborating and experimenting new concepts / technology
@@ -11,6 +11,8 @@
 
 1. AWS Community Builder - AWS
 2. Co-Lead Contributor Experience SIG Armory - Spinnaker
+3. CDF Ambassador Cohort 2023
+4. Mentor
 
 ### My Publications
 
