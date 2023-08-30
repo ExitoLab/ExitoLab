@@ -1,4 +1,4 @@
-### I'm Adetokunbo Temitayo Ige | a DevOps Engineer with experience in Platform Engineering, SRE, Database Administration, and Technical Writing
+Hi, I'm Adetokunbo Temitayo Ige | a DevOps Engineer with experience in Platform Engineering, SRE, Database Administration, and Technical Writing
 
 - 🔭 DevOps Engineer / Site Reliability Engineer / Platform Engineering
 - 🔭 ISO 22301 Lead Implementer
@@ -15,7 +15,7 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ExitoLab&layout=compact&langs_count=8&card_width=320&theme=transparent" />
 </a>
 
-### Community
+## Community
 Making an impact in the following communities:
 
 - AWS Community Builder - AWS
