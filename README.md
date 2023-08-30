@@ -1,11 +1,11 @@
 Hi, I'm Adetokunbo Temitayo Ige | a DevOps Engineer with experience in Platform Engineering, SRE, Database Administration, and Technical Writing
 
-- 🔭 DevOps Engineer / Site Reliability Engineer / Platform Engineering
-- 🔭 ISO 22301 Lead Implementer
-- 🌱 I strongly believe in continous learning and improvements
-- 🔭 I love collaborating and experimenting new concepts / technology
-- 🔭 1x AWS | 1x Azure | CKAD
-- 🌱 Lover of Golang
+- DevOps Engineer / Site Reliability Engineer / Platform Engineering
+- ISO 22301 Lead Implementer
+- I strongly believe in continous learning and improvements
+- I love collaborating and experimenting new concepts / technology
+- 1x AWS | 1x Azure | CKAD
+- Lover of Golang
 
 
 <a href="https://github.com/ExitoLab/github-readme-stats">
