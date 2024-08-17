@@ -32,6 +32,7 @@ Making an impact in the following communities:
 #### I recently deployed an new [action on Github Marketplace](https://github.com/marketplace/actions/packer-build-on-aws)
 
 ## My last articles on Medium:
+[How I Use Terraform to Deploy My AWS Amplify React Project](https://blog.stackademic.com/how-i-use-terraform-to-deploy-my-aws-amplify-react-js-project-630ed3b1c9e5)
 
 [Why i use a smaller docker image part I](https://igeadetokunbo.medium.com/why-use-a-small-docker-image-part-i-8995a84acd40)
 
