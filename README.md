@@ -53,3 +53,4 @@ Making an impact in the following communities:
 [![medium](https://aleen42.github.io/badges/src/medium.svg)](https://medium.com/@igeadetokunbo)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/igeadetokunbo/)
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/ExitoLab)
+[<img src="https://komarev.com/ghpvc/?username=ExitoLab&label=Profile%20views&color=0e75b6&style=flat" alt="ExitoLab" />](https://github.com/ExitoLab)
