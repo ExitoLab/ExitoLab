@@ -4,7 +4,7 @@ Hi, I'm Adetokunbo Temitayo Ige | a DevOps Engineer with experience in Platform 
 - ISO 22301 Lead Implementer
 - I strongly believe in continous learning and improvements
 - I love collaborating and experimenting new concepts / technology
-- 1x AWS | 1x Azure | CKAD
+- 1x AWS | 1x Azure | CKAD, KCNA
 - Lover of Golang
 
 
@@ -22,6 +22,7 @@ Making an impact in the following communities:
 - Co-Lead Contributor Experience SIG Armory - Spinnaker
 - CDF Ambassador Cohort 2023
 - Ambassador Community Advocate - Ambassador Labs
+- CNCF Ambassador - CNCF 
 - Mentor @TIIDELab
 
 ## My Publications
@@ -32,15 +33,17 @@ Making an impact in the following communities:
 #### I recently deployed an new [action on Github Marketplace](https://github.com/marketplace/actions/packer-build-on-aws)
 
 ## My last articles on Medium:
-[How I Use Terraform to Deploy My AWS Amplify React Project](https://blog.stackademic.com/how-i-use-terraform-to-deploy-my-aws-amplify-react-js-project-630ed3b1c9e5)
+[Build and Deploy Dockerize Python Application to Azure Container Instances (ACI) using Azure DevOps](https://igeadetokunbo.medium.com/build-and-deploy-dockerize-python-application-to-azure-container-instances-aci-using-azure-devops-6d1a17421899)
 
-[Why i use a smaller docker image part I](https://igeadetokunbo.medium.com/why-use-a-small-docker-image-part-i-8995a84acd40)
+[Simplify Kubernetes Security With Kyverno and OPA Gatekeeper](https://igeadetokunbo.medium.com/simplify-kubernetes-security-with-kyverno-and-opa-gatekeeper-16394d6e7dc6)
 
-[My personal experience using kubecost in Kubernetes environment](https://igeadetokunbo.medium.com/my-personal-experience-using-kubecost-in-the-kubernetes-environment-f475e9b1571c)
+[Build a C++ Pipeline with Docker, GitHub Actions, Azure ACR and Azure App Service](https://igeadetokunbo.medium.com/build-a-c-pipeline-with-docker-github-actions-azure-acr-and-azure-app-service-44d54a6649ef)
 
-[My experience with a split brain scenario in MSSQL-SERVER](https://igeadetokunbo.medium.com/my-experience-with-a-split-brain-scenario-in-mssql-server-6e5da827f671)
+[Build a Dockerized Todo List RESTful API in C# with GitHub Actions and Azure Container App: A Step-by-Step Guide](https://igeadetokunbo.medium.com/build-a-dockerized-todo-list-restful-api-in-c-with-github-actions-and-azure-container-app-a-ce6392960bd3)
 
-[Using Github Actions to build packer AMI on AWS](https://igeadetokunbo.medium.com/using-github-actions-to-build-packer-ami-on-aws-1c1f299e13a7)
+[Building a Todo List RESTful API in C++ with Docker, GitHub Actions, Azure ACR: A Beginner’s Guide](https://igeadetokunbo.medium.com/building-a-todo-list-restful-api-in-c-with-docker-github-actions-azure-acr-a-beginners-guide-05e996435782)
+
+[Beginner’s Guide: Create a File Organizer CLI Tool in Rust](https://igeadetokunbo.medium.com/beginners-guide-create-a-file-organizer-cli-tool-in-rust-c3cb10b960b0)
 
 
 ## 🔥 Streak stats
